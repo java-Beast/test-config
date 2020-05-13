@@ -1,4 +1,4 @@
 server:
  port: 9002
 config:
- info: test,this is three verssion
+ info: test,this is one verssion
