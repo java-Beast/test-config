@@ -1,2 +1,4 @@
 server:
  port: 9001
+config:
+ info: test,this is first verssion
