@@ -1,5 +1,5 @@
 server:
  port: 9002
 config:
- info: test,this is one verssion
+ info: test,this is five verssion
  pwd: '{cipher}a4be56cc745a6f9d6028318eacbc276de787b5e50c464cb60a0f93af9bbebe3a'
